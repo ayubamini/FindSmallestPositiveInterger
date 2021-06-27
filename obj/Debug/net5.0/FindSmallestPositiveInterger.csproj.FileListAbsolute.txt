@@ -1,0 +1,16 @@
+D:\Programming\Projects\Git\FindSmallestPositiveInterger\bin\Debug\net5.0\FindSmallestPositiveInterger.exe
+D:\Programming\Projects\Git\FindSmallestPositiveInterger\bin\Debug\net5.0\FindSmallestPositiveInterger.deps.json
+D:\Programming\Projects\Git\FindSmallestPositiveInterger\bin\Debug\net5.0\FindSmallestPositiveInterger.runtimeconfig.json
+D:\Programming\Projects\Git\FindSmallestPositiveInterger\bin\Debug\net5.0\FindSmallestPositiveInterger.runtimeconfig.dev.json
+D:\Programming\Projects\Git\FindSmallestPositiveInterger\bin\Debug\net5.0\FindSmallestPositiveInterger.dll
+D:\Programming\Projects\Git\FindSmallestPositiveInterger\bin\Debug\net5.0\ref\FindSmallestPositiveInterger.dll
+D:\Programming\Projects\Git\FindSmallestPositiveInterger\bin\Debug\net5.0\FindSmallestPositiveInterger.pdb
+D:\Programming\Projects\Git\FindSmallestPositiveInterger\obj\Debug\net5.0\FindSmallestPositiveInterger.csprojAssemblyReference.cache
+D:\Programming\Projects\Git\FindSmallestPositiveInterger\obj\Debug\net5.0\FindSmallestPositiveInterger.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Projects\Git\FindSmallestPositiveInterger\obj\Debug\net5.0\FindSmallestPositiveInterger.AssemblyInfoInputs.cache
+D:\Programming\Projects\Git\FindSmallestPositiveInterger\obj\Debug\net5.0\FindSmallestPositiveInterger.AssemblyInfo.cs
+D:\Programming\Projects\Git\FindSmallestPositiveInterger\obj\Debug\net5.0\FindSmallestPositiveInterger.csproj.CoreCompileInputs.cache
+D:\Programming\Projects\Git\FindSmallestPositiveInterger\obj\Debug\net5.0\FindSmallestPositiveInterger.dll
+D:\Programming\Projects\Git\FindSmallestPositiveInterger\obj\Debug\net5.0\ref\FindSmallestPositiveInterger.dll
+D:\Programming\Projects\Git\FindSmallestPositiveInterger\obj\Debug\net5.0\FindSmallestPositiveInterger.pdb
+D:\Programming\Projects\Git\FindSmallestPositiveInterger\obj\Debug\net5.0\FindSmallestPositiveInterger.genruntimeconfig.cache
